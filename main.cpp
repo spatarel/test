@@ -6,6 +6,7 @@ int main() {
   printf("%d\n", a + b);
   printf("%d\n", a - b);
   printf("%d\n", a * b);
+  printf("%d\n", b * b);
   return 0;
 }
 
